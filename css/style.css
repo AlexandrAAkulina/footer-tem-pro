@@ -40,16 +40,18 @@ p {
 
 .footer-blur-background {
     position: absolute;
-    top: 169px;
-    left: 31px;
+    top: 272px;
+    left: 16px;
     width: 420px;
-        height: 420px;
-        transform: rotate(-45.408deg);
-        flex-shrink: 0;
-            border-radius: 420px;
-                opacity: 0.6000000238418579;
-                background: var(--light-green, #93ABAE);
-                filter: blur(100px);
+    height: 420px;
+    transform: rotate(-45.408deg);
+    flex-shrink: 0;
+    border-radius: 420px;
+    opacity: 0.6000000238418579;
+    background: var(--light-green, #93ABAE);
+    filter: blur(100px);
+                
+                
 }
 
 .footer {
